@@ -1,0 +1,15 @@
+RECEIPT - Amazon Purchase
+Date: 2024-01-15
+Order #: 112-3456789-1234567
+
+Items:
+1. Wireless Bluetooth Headphones - $79.99
+2. USB-C Charging Cable (2-pack) - $12.99
+3. Laptop Stand - $34.50
+
+Subtotal: $127.48
+Tax: $10.20
+Total: $137.68
+
+Payment: Visa ending in 4242
+Shipping: Standard (3-5 business days)
